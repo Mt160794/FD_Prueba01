@@ -11,4 +11,20 @@ package POO;
  */
 public class Vehiculo {
     
+    private String Color;
+    private String Marca;
+    private double Precio;
+ 
+    
+public void Encender(){System.out.println("El carro esta encendido");
 }
+
+public void Avanzar(){System.out.println("El carro esta avanzando");
+}
+public void Detener(){System.out.println("El carro esta deteniendose");
+}
+}
+
+
+
+
